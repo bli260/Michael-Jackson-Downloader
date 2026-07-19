@@ -7,7 +7,7 @@ echo "=================================="
 echo ""
 
 # Pakete checken
-pkg install wget ffmpeg -y
+ sudo pkg install wget ffmpeg -y
 
 # Download starten
 echo " STARTING DOWNLOAD... "
