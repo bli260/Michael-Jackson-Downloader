@@ -3,3 +3,5 @@ a script inside the .zip that will automatically install the michael jackson mov
 operating system that supports .sh
 currently for termux 
 i am thinking about porting the script to linux and macos
+the .sh in either the termux zip or the archlinux file are 100 percent modifyable and able to port on any os
+hee hee
